@@ -8,6 +8,6 @@ Tools used (to reverse):
 - Built with .NET Framework 4 (Client Profile)
 
 # App Information
-- Originally made on Visual Studio 2012
+- Information is Spoofed (Unknown Visual Studio version used)
 
 (for more details, [Original Thread (sinister.ly)](temp))
