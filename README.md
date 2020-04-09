@@ -10,4 +10,4 @@ Tools used (to reverse):
 # App Information
 - Information is Spoofed (Unknown Visual Studio version used)
 
-(for more details, [Original Thread (sinister.ly)](temp))
+(for more details, [Original Thread (sinister.ly)](https://sinister.ly/Thread-Bronze-VS2010-VB-NET-Project-XLSReader-v1-0))
